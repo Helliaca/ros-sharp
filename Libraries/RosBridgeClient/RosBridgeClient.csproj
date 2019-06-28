@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RosBridgeClient</RootNamespace>
     <AssemblyName>RosBridgeClient</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
@@ -95,7 +95,6 @@
     <Compile Include="Messages\Sensor\PointCloud2.cs" />
     <Compile Include="Messages\Sensor\PointField.cs" />
     <Compile Include="Messages\Standard\Bool.cs" />
-    <Compile Include="Messages\Standard\Duration.cs" />
     <Compile Include="Messages\Standard\Float64.cs" />
     <Compile Include="Messages\Standard\Header.cs" />
     <Compile Include="Messages\Standard\Int16.cs" />
